@@ -16,7 +16,7 @@ export function NavbarComp() {
         <Navbar.Toggle className="w-[40px] h-[40px] flex justify-center items-center" />
       <Navbar.Collapse className="w-full ml-10">
         {navData.map((data, idx)=>{
-          return <Navbar.Link key={idx} href={data.src} className=" hover:bg-transparent dark:hover:bg-transparent text-[21px] leading-[31.5px]  md:text-[1.4vw] md:leading-[2vw] ml-[-20px]  mt-[10px]  dark:text-white  font-poppins-medium font-normal" >{data.title}</Navbar.Link>
+          return <Navbar.Link key={idx} href={data.src} className=" hover:bg-transparent dark:hover:bg-transparent text-[21px] leading-[31.5px]  md:text-[1.4vw] md:leading-[2vw] ml-[-20px] 2xl:ml-0  mt-[10px]  dark:text-white  font-poppins-medium font-normal" >{data.title}</Navbar.Link>
         })}
         
         <CustomBtn title="Download CV" />
