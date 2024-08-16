@@ -35,6 +35,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Netlify
 
-I used Netlify to deploy this Next.js app and here is link to [Live Website]().
+I used Netlify to deploy this Next.js app and here is link to [Live Website](https://mugs-five.vercel.app/).
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
