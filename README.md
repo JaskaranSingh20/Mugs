@@ -33,8 +33,8 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Netlify
+## Deploy on Vercel
 
-I used Netlify to deploy this Next.js app and here is link to [Live Website](https://mugs-five.vercel.app/).
+I used Vercel to deploy this Next.js app and here is link to [Live Website](https://mugs-five.vercel.app/).
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
