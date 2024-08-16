@@ -89,12 +89,12 @@ const EmblaCarousel = (props) => {
                 <div className=" w-full md:w-[67.5%] dark:text-black ">
                   <div className="relative  flex">
                     <span className=" absolute italic top-[-20px] left-[-20px] text-[32px] text-justify text-[#FD6F00] leading-[48px] font-poppins-medium font-bold ">
-                      "
+                    &quot;
                     </span>
                     <p className=" text-[14px] leading-[20px] md:text-[21px] md:leading-[31.5px] inline-block text-justify font-poppins-medium font-normal text-[#424242]">
                       {data.description}
                       <span className=" text-end leading-8 text-[32px] italic text-[#FD6F00] font-poppins-medium font-bold ">
-                        "
+                      &quot;
                       </span>
                     </p>
 
