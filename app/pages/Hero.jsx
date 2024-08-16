@@ -16,7 +16,6 @@ const Hero = () => {
         
       </div>
 
-      {/* Hero Right Image  */}
       <div className='  w-[100%] h-[70vh] md:h-[45vh] min-[1118px]:h-[100%]  flex flex-col justify-center items-center '>
         <div className=' relative w-[100%] h-[100%]'>
           <div className=' absolute bg-[#FD6F0099] w-[200px] h-[60px] xl:w-[374px] xl:h-[83px] top-[11.5vh] md:top-[78px] left-[50%] translate-x-[-50%]  z-10'></div>

@@ -15,7 +15,6 @@ const Projects = () => {
 }) ;
 
   function handleSelection(idx, data){
-    // console.log("Product id - "+ idx);
      setSelectedBtn(idx);
      setCurrElem(data.text);
     }
