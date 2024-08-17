@@ -7,7 +7,7 @@ After successfully cloning the github repository , run the following commands in
 1. First, run the development server:
 
 ```bash
-npm init
+npm i
 
 npm run dev
 # or
